@@ -10,6 +10,15 @@ Download now!
 <a href="https://f-droid.org/packages/ch.deletescape.lawnchair.plah/" target="_blank">
 <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"/></a>
 
+## This Fork
+
+The official Lawnchair doesn't want you to use some apps. For example every App made by ChelpuS.
+You won't be able to change custom Icons, if you have one of these Apps installes.
+
+In my Opinion a Launcher shouldn't dictate which Apps are good and which aren't.
+
+While a particular App called [Luckypatcher](https://www.luckypatchers.com/) can be used to unlock some paid Apps for free or bypass microtransactions, it's also a handy tool for patching additional features into legally obtained apps, systemize apps, remove system apps, backup apps and manage duplicating apps.
+
 ## Now what does this cost?
 
 Nothing, I am promising that Lawnchair, including all it's features, will always be free! But if you really like it, you can still buy me a beer or something via [PayPal](https://www.paypal.me/deletescape).
